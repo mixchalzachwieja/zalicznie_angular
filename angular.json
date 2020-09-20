@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "zaliczenie"
+    }
+  },
+  "defaultProject": "zaliczenie",
+  "cli": {
+    "analytics": "a15fc7e9-8fb3-4d5b-bb83-9a75504006af"
+  }
 }
